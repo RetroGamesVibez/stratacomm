@@ -1,0 +1,5 @@
+# client data and generated reports stay local
+data/
+output/
+__pycache__/
+*.pyc
